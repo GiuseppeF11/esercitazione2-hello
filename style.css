@@ -1,0 +1,10 @@
+body{
+    background-image: url(rana-triste.jpg);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+    float: right;
+    margin: 100px 50px;
+}
